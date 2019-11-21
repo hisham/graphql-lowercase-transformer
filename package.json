@@ -1,6 +1,6 @@
 {
   "name": "graphql-lowercase-transformer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "Apache-2.0",
   "author": "Hisham Al-Shurafa",
   "main": "lib/index.js",
